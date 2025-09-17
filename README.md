@@ -4,13 +4,15 @@ Qiskit Fall Fest 2025 at Purdue University Fort Wayne
 # Copied over from Qiskit Fall Fest 2024. Will be update soon.
 
 ## Welcome
-This is the Qiskit Fall Fest event for Purdue Universit Fort Wayne. We're so exciting to have you all here. This event is being hosted by **Purdue Quantum Intelligent Applications and Optimization (QIAO) Lab** sponsored by **IBM**, **Purdue Univeristy Fort Wayne Computer Science Department**, **Purude Fort Wayne ETCS**, and **National Science Foundation (NSF)**. 
+This is the Qiskit Fall Fest event for Purdue Universit Fort Wayne. We're so exciting to have you all here. This event is being hosted by **Purdue Quantum AI Cybersecurity Lab** sponsored by **IBM**, **Purdue Univeristy Rosen Center for Advanced Computing**, **Purude Fort Wayne ETCS**, and **National Science Foundation (NSF)**. 
 
-We are one of 50 campuses around the world and the only one in Indiana to host the IBM sponsored [Qiskit Fall Fest Events](https://qiskit.org/events/fall-fest/).
+We are one of 55 campuses around the world and the only one in Indiana to host the IBM sponsored [Qiskit Fall Fest Events]([https://qiskit.org/events/fall-fest/](https://www.ibm.com/quantum/blog/qiskit-fall-fest-2025)).
 
-The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the months of October to November to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
+In honor of the 2025 International Year of Quantum Science and Technology, this year’s Qiskit Fall Fest theme will celebrate the century-long history of quantum science and innovation. Many of the bespoke materials we’re creating for this year’s events will center on specific experiments and notable events that occurred during that first 100 years. 
 
-The Fall Fest here includes a series of workshops starting Oct 16 and ends with a hackathon, November 8 - 10. Details are coming.
+Qiskit Fall Fest is a collection of quantum computing events that allows students, researchers and industry professionals to participate in various quantum-themed activities — including quantum challenges, hackathons, coding competitions, workshops, social events, and more. Each year, IBM® partners with a select group of university students and other volunteer hosts to help them plan and run the global roster of Fall Fest events.
+
+The Fall Fest here includes a series of workshops, hackathons, project competition, starting Oct 15 and ends with a project competition, November 6 - 9. Details are coming.
 
 --------------------------------
 ## Official Registration
@@ -18,11 +20,15 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - Registration is not required to participate in the events.
 
 ## Workshops
-- Oct 16 Kickoff, 12:00 - 1:00 pm, NF 101
-- Nov 6  Quantum 101, 6:00  - 7:00 pm, KT 246 [Presentation Repository](https://github.com/qiskit-community/qiskit-presentations/tree/master/2022-02-02_penn_state_workshop)
+- Oct 15 Kickoff, Quantum 101, Beginner Notebook, 12:00 - 1:00 pm, NF 101
+- Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, NF 101
+- Oct 29 Quantum Simulation, Optimization, and Quantum Machine Learning, Advanced Notebook,  12:00 - 2:00 pm, NSF 101
+- Nov 5  Quantum Computing for Healthcare and Life Science, invited speaker from IBM, 12:00 - 1:30 pm. NSF 101
+- Nov 6 - 8 Quantum Computing Project Competition
+- Nov 9 Closing Ceremony and Awards
 
 ## Learn more about Quantum Computing
-- Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.ibm.com/)
+- Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.cloud.ibm.com/)
 - Read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
 ## Hackathon Preparation
@@ -31,24 +37,11 @@ The Fall Fest here includes a series of workshops starting Oct 16 and ends with 
 - [Open Notebook B](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb)
 - Upload these notebook into https://colab.research.google.com/ and run the notebooks
 ## Hackathon
-- Kick off with Hackathon Themee Revleved at 1 pm on Friday, Nov 8, ET 107
-- Develop and present a Qiskit Project, a team of 1-2
-- There are two types of projects
-  - Develop an open project using Qiskit and create a Juypter Notebook to show potential quantum algorithms in chemistry and materials science to solve problems such as
-    drug discovery, new battery, and others.
-  - Complete three graded Jupyter notebooks (avaiable at 1 pm)
-    - [Grade Notebook 1](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_1.ipynb)
-    - [Grade Notebook 2](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_2.ipynb)
-    - [Grade Notebook 3](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/QFF_Graded_Notebook_3.ipynb)
-- Hackathon Presentation at 5 pm, on Sunday, Nov 10
-- The winning teams will be announced on 5 pm, on Wednesday, Nov 20 at this page
-- The first place team will get the IBM Swags. Two winning teams, one for each type of projects.
-- Participating teams will get certificates.
-
+## Project Competition
 ## Submission and Presentation
 - Create a public github repository and upload your solutions.
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
-- attend and give a presentation of 5 minuutes plus 2 minute Q & A per team at 5 pm, on Sunday, Nov 10
+- attend and give a presentation of 10 minuutes plus 2 minute Q & A per team at 2 pm, on Sunday, Nov 10
 
 ## Judging Criteria 
 - The wiiner announcements are final.
