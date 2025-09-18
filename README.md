@@ -1,8 +1,5 @@
 # Qiskit-Fall-Fest-2025
 Qiskit Fall Fest 2025 at Purdue University Fort Wayne 
-
-# Copied over from Qiskit Fall Fest 2024. Will be update soon.
-
 ## Welcome
 This is the Qiskit Fall Fest event for Purdue Universit Fort Wayne. We're so exciting to have you all here. This event is being hosted by **Purdue Quantum AI Cybersecurity Lab** sponsored by **IBM**, **Purdue Univeristy Rosen Center for Advanced Computing**, **Purude Fort Wayne ETCS**, and **National Science Foundation (NSF)**. 
 
