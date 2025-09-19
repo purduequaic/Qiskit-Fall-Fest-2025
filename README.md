@@ -25,7 +25,7 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 - Nov 9 Closing Ceremony and Awards
 
 ## Learn more about Quantum Computing
-- Explore Quantum Computing at [***IBM Quantum Learning***](https://learning.quantum.cloud.ibm.com/)
+- Explore Quantum Computing at [***IBM Quantum Learning***]([https://learning.quantum.cloud.ibm.com/](https://quantum.cloud.ibm.com/learning/)
 - Read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
 ## Hackathon Preparation
