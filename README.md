@@ -18,7 +18,7 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 
 ## Workshops
 - Oct 15 Kickoff, Quantum 101, Beginner Notebook, 12:00 - 1:00 pm, KT 146
-- Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, NF 146
+- Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, KT 146
 - Oct 29 Quantum Simulation, Optimization, and Quantum Machine Learning, Advanced Notebook,  12:00 - 2:00 pm, KT 146
 - Nov 5  Quantum Computing for Healthcare and Life Science, invited speaker from IBM, 12:00 - 1:30 pm. KT 146
 - Nov 6 - 8 Quantum Computing Project Competition
@@ -30,8 +30,6 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
   
 ## Hackathon Preparation
 - Please download two notebooks to learn about Quantum Compting in Qiskit
-- [Open Notebook A](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_A-2.ipynb)
-- [Open Notebook B](https://github.com/purduequaic/Qiskit-Fall-Fest-2024/blob/main/Open_Notebook_B-2.ipynb)
 - Upload these notebook into https://colab.research.google.com/ and run the notebooks
 ## Hackathon
 ## Project Competition
