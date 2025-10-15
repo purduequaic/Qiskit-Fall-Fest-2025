@@ -17,10 +17,10 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 - Registration is not required to participate in the events.
 
 ## Workshops
-- Oct 15 Kickoff, Quantum 101, Beginner Notebook, 12:00 - 1:00 pm, NF 101
-- Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, NF 101
-- Oct 29 Quantum Simulation, Optimization, and Quantum Machine Learning, Advanced Notebook,  12:00 - 2:00 pm, NSF 101
-- Nov 5  Quantum Computing for Healthcare and Life Science, invited speaker from IBM, 12:00 - 1:30 pm. NSF 101
+- Oct 15 Kickoff, Quantum 101, Beginner Notebook, 12:00 - 1:00 pm, KT 146
+- Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, NF 146
+- Oct 29 Quantum Simulation, Optimization, and Quantum Machine Learning, Advanced Notebook,  12:00 - 2:00 pm, KT 146
+- Nov 5  Quantum Computing for Healthcare and Life Science, invited speaker from IBM, 12:00 - 1:30 pm. KT 146
 - Nov 6 - 8 Quantum Computing Project Competition
 - Nov 9 Closing Ceremony and Awards
 
