@@ -35,9 +35,8 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 ## Project Competition
 ## Submission and Presentation
 - Create a public github repository and upload your solutions.
-- email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
-- attend and give a presentation of 10 minuutes plus 2 minute Q & A per team at 2 pm, on Sunday, Nov 10
-
+- email github public link to Dr. Liu dqliu@pfw.edu. README.md should include team members
+- 
 ## Judging Criteria 
 - The wiiner announcements are final.
 - Originality and Uniqueness (25%)
