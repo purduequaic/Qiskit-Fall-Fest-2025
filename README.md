@@ -21,6 +21,10 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 - Oct 22 Quantum Algorithms, Intermedia Notebook, 12:00 - 1:00 pm, KT 146
 - Oct 29 Quantum Simulation, Optimization, and Quantum Machine Learning, Advanced Notebook,  12:00 - 2:00 pm, KT 146
 - Nov 5  Quantum Computing for Healthcare and Life Science, invited speaker from IBM, 12:00 - 1:30 pm. KT 146
+- Title: Quantum Computing for Health Care and Life Science Applications
+- Speaker: Dr. Gavin Jones, Senior Research Scientist abd Manager of Quantum Application Group on Chemistry anbd Materials, IBM Research
+  https://research.ibm.com/people/gavin-jones
+- Abstract: IBM Quantum has been at the forefront of exploring quantum computing for applications relevant to many industrial sectors. The Health Care and Life Sciences (HCLS) industry is one of the primary sectors for which applications in quantum optimization, quantum machine learning, and quantum chemistry are being explored. Our commitment to this field is perhaps best recognized by the establishment of the Discovery Accelerator partnership with the Cleveland Clinic and the unveiling of the first on-site quantum computer devoted to the healthcare sector at the Cleveland Clinic. In addition, both organizations are founding members of the Quantum Working Group for Health Care and Life Sciences (HCLS), which has coalesced industry partners and other key stakeholders in the healthcare sector to develop perspectives and perform joint research on projects pertinent to HCLS for which quantum computing could demonstrate quantum advantage. These partnerships and associated technical efforts will be discussed in this talk. 
 - Nov 6 - 8 Quantum Computing Project Competition
 - Nov 9 Closing Ceremony and Awards
 
